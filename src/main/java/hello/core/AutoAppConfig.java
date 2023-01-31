@@ -4,6 +4,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;
 
+// 의존관계 자동 주입
 @Configuration
 @ComponentScan(
 //        basePackages = "hello.core.member",
