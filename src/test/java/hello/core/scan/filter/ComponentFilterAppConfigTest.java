@@ -13,6 +13,7 @@ import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.context.annotation.ComponentScan.*;
 
+// 컴포넌트 필터를 사용한 의존관계 주입 테스트
 public class ComponentFilterAppConfigTest {
 
     @Test
