@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// 의존관계 테스트
 class OrderServiceImplTest {
 
     @Test
