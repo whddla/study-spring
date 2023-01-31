@@ -10,7 +10,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import static org.assertj.core.api.Assertions.*;
-
+// @Configuration과 바이트코드 조작
 public class ConfigurationSingletonTest {
 
     @Test
