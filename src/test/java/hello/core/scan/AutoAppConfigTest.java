@@ -8,6 +8,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import static org.assertj.core.api.Assertions.*;
 
+// 의존관계 자동 주입 테스트
 public class AutoAppConfigTest {
 
     @Test
