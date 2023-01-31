@@ -2,6 +2,7 @@ package hello.core.discount;
 
 import hello.core.Member.Member;
 
+// 할인 정책 인터페이스
 public interface DiscountPolicy {
 
     /**
