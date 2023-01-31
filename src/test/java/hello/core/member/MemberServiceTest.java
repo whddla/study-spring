@@ -9,6 +9,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+// 회원 도메인 - 회원 가입 테스트
 public class MemberServiceTest {
 
 //    DIP 의존관계를 지키지 않고있음.
