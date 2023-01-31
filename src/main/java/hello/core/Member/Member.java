@@ -1,5 +1,6 @@
 package hello.core.Member;
 
+// 회원 정보 엔티티
 public class Member {
 
     private Long id;
