@@ -7,6 +7,7 @@ import hello.core.Member.MemberServiceImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+// 회원 도메인 - 회원 가입 main
 public class MemberApp {
 
     public static void main(String[] args) {
