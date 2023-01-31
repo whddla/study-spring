@@ -4,6 +4,7 @@ package hello.core.lifecycle;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
+// 예시 네트워크
 public class NetworkClient {
 
     private String url;
