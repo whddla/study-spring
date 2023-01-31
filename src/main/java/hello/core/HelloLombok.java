@@ -5,6 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
+// 롬복
 public class HelloLombok {
 
     private String name;
