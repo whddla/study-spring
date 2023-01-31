@@ -11,6 +11,7 @@ import javax.annotation.PreDestroy;
 
 import static org.assertj.core.api.Assertions.*;
 
+//프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점
 public class SingletonWithPrototypeTest1 {
 
     @Test
