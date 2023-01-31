@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 import javax.annotation.PostConstruct;
 
+// 빈 생명주기 콜백 테스트
 public class BeanLifeCycleTest {
 
     @Test
