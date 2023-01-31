@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Scope;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-// 싱글톤 scope test
+// 싱글톤 스코프 빈 테스트
 public class SingletonTest {
 
     @Test
