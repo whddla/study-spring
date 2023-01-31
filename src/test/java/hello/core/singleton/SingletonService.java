@@ -1,5 +1,6 @@
 package hello.core.singleton;
 
+// 싱글톤 패턴
 public class SingletonService {
 
     //1. static 영역에 객체를 딱 1개만 생성해둔다.
