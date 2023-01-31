@@ -8,6 +8,7 @@ import hello.core.order.OrderService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+// 주문과 할인 정책 실행
 public class OrderApp {
 
     public static void main(String[] args) {
