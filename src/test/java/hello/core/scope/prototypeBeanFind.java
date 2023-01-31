@@ -10,6 +10,7 @@ import javax.annotation.PreDestroy;
 
 import static org.assertj.core.api.Assertions.*;
 
+//프로토타입 스코프 빈 테스트
 public class prototypeBeanFind {
 
     @Test
