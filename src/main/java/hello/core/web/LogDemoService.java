@@ -4,6 +4,7 @@ import hello.core.common.MyLogger;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+// LogDemoService
 @Service
 @RequiredArgsConstructor
 public class LogDemoService {
