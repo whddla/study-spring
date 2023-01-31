@@ -16,6 +16,7 @@ import java.util.Map;
 
 import static org.assertj.core.api.Assertions.*;
 
+// 조회한 빈이 모두 필요할 때, List, Map
 public class AllBeanTest {
 
     @Test
