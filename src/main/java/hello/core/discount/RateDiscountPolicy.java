@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
+// 정률 할인 정책 구현체
 @Component
 @Primary // dicountPolicy 에서 먼저 읽음
 //@Qualifier("mainDiscountPolicy")
