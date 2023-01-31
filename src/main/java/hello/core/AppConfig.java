@@ -12,6 +12,7 @@ import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+// AppConfig 구현 객체 생성
 @Configuration
 // 구현객체를 여기서 생성해서 생성자를 주입해줌.
 public class AppConfig {
